@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 <p></p>
 
-- 🔭 I’m currently working not working **Nothing**
+- 🔭 I’m currently working not working ****
 
 - 🌱 I’m currently trying to learning **Something**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Fun, Relax, Sleep**
 
-<img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="varnax-279" />
+<img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 
 <h3 align="center">Languages and Tools</h3>
 <p></p>
