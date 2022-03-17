@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nayon889&label=Profile Views&color=829bab&style=plastic" alt="Nayon889" /> </p>
 
-[![Nayon889](https://readme-typing-svg.herokuapp.com?color=F7185A&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone.;%3E+I'm+Nayon.;%3E+Good+Type-er+Fazil+from+Bangladesh.)](https://git.io/Nayon889)
+[![Nayon889](https://readme-typing-svg.herokuapp.com?color=18F7B5&vCenter=true&lines=%3E+Hi+%F0%9F%91%8B%2C+Everyone.;%3E+I'm+Nayon.;%3E+Good+Type-er+Fazil+from+Bangladesh.)](https://git.io/Nayon889)
 
 <img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 <p></p>
