@@ -20,4 +20,4 @@
 
 <img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 
-<img src='https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/pokemon.gif' width = 80 align = "center" alt="Bond" >
+<img src='https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/pokemon.gif' width = 80 align = "middle" alt="Bond" >
