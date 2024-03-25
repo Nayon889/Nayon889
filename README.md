@@ -8,16 +8,15 @@
 <img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 <p></p>
 
-- 🔭 I’m currently working not working ****
+- 🔭 
 
-- 🌱 I’m currently trying to learning **Something**
+- 🌱 
 
-- 👯 I’m looking to collaborate on **Something** 
+- 👯 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nayon889](https://github.com/Nayon889)
-
-- 💬 Ask me about **Fun, Relax, Sleep**
-
+- 👨‍💻
+  
+- 💬 
 <img src="https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/proxy_form.gif" alt="Nayon889" />
 
 <img src='https://raw.githubusercontent.com/Nayon889/Nayon889/main/src/pokemon.gif' width = 80 align = "right" alt="Bond" >
